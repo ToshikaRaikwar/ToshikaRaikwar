@@ -6,6 +6,8 @@
 - ⚡ Fun fact: In my free time, I write blogs, you can read here [toshiplanet](https://toshiplanet.blogspot.com/?fbclid=PAAaYDTBREz_MQOPS27lI5SAPWCqZWcDGFCb79RSCEAdRJUG5np4aSAmHVHhM&m=1) 
 - 👯 I love reading books and listening music.
 
+Thanks for Visiting!
+
 <!--
 **ToshikaRaikwar/ToshikaRaikwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
