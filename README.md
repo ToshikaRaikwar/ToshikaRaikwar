@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📝 Sometimes I write [o](https://toshiplanet.blogspot.com/?fbclid=PAAaYDTBREz_MQOPS27lI5SAPWCqZWcDGFCb79RSCEAdRJUG5np4aSAmHVHhM&m=1)
+- 📝 Sometimes I write [Toshi's Planet](https://toshiplanet.blogspot.com/?fbclid=PAAaYDTBREz_MQOPS27lI5SAPWCqZWcDGFCb79RSCEAdRJUG5np4aSAmHVHhM&m=1)
 
 - 📫 How to reach me **raikwartoshika@gmail.com**
+
+- 🎐 In free time I upload on [The Pine World](https://instagram.com/the_pine_world?igshid=YmMyMTA2M2Y=)
 
 - ⚡ Hobbies **Loves reading and music.**
 
