@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📝 Sometimes I write [https://toshiplanet.blogspot.com/?fbclid=PAAaYDTBREz_MQOPS27lI5SAPWCqZWcDGFCb79RSCEAdRJUG5np4aSAmHVHhM&m=1](https://toshiplanet.blogspot.com/?fbclid=PAAaYDTBREz_MQOPS27lI5SAPWCqZWcDGFCb79RSCEAdRJUG5np4aSAmHVHhM&m=1)
+- 📝 Sometimes I write [o](https://toshiplanet.blogspot.com/?fbclid=PAAaYDTBREz_MQOPS27lI5SAPWCqZWcDGFCb79RSCEAdRJUG5np4aSAmHVHhM&m=1)
 
 - 📫 How to reach me **raikwartoshika@gmail.com**
 
