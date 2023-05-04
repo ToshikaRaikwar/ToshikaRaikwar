@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Minor Projects.**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **HopeSupport**
 
 - 📝 Sometimes I write [Toshi's Planet](https://toshiplanet.blogspot.com/?fbclid=PAAaYDTBREz_MQOPS27lI5SAPWCqZWcDGFCb79RSCEAdRJUG5np4aSAmHVHhM&m=1)
 
