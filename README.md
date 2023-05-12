@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Toshika Raikwar</h1>
 <h3 align="center">I'm from India and is keenly interested in learning new technologies.</h3>
 
-- 🔭 I’m currently working on **HopeSupport(A website for healthy mind).**
+- 🔭 I’m currently working on **HopeSpace(A website for healthy mind).**
 
 - 🌱 I’m currently learning **Node.JS**
 
